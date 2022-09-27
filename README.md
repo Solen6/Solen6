@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Solen6
-- 👀 I’m interested in workin on an alternative to the Google Glass.
+- 👀 I’m interested in designing a 3D game for PC!
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on anything. I need a new project!
 - 📫 How to reach me? Email solenwork1@gmail.com
